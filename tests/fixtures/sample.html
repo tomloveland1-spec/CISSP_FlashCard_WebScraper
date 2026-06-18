@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8"><title>Sample CISSP Glossary</title></head>
+<body>
+  <h1>Sample CISSP Glossary</h1>
+
+  <!-- Shape 1: definition list (matches DEFAULT_SELECTORS) -->
+  <dl class="glossary">
+    <dt>Confidentiality</dt>
+    <dd>Ensuring that information is accessible only to those authorized to
+        have access.</dd>
+
+    <dt>Integrity</dt>
+    <dd>Safeguarding the accuracy &amp; completeness of information and
+        processing methods.</dd>
+
+    <dt>Availability</dt>
+    <dd>Ensuring authorized users have access to information when required.</dd>
+
+    <!-- Duplicate term, longer definition -- should win after dedupe -->
+    <dt>Availability</dt>
+    <dd>Ensuring that authorized users have reliable and timely access to
+        information and resources when required.</dd>
+
+    <!-- Term with no definition -- should be skipped -->
+    <dt>Orphan Term</dt>
+  </dl>
+
+  <!-- Shape 2: two-column table -->
+  <table class="terms">
+    <tr><th>Term</th><th>Definition</th></tr>
+    <tr><td>AAA</td><td>Authentication, Authorization, and Accounting.</td></tr>
+    <tr><td>DAC</td><td>Discretionary Access Control.</td></tr>
+  </table>
+
+  <!-- Shape 3: list items with a bolded lead-in term -->
+  <ul class="defs">
+    <li><strong>Nonrepudiation</strong>: assurance that a party cannot deny a
+        previous action.</li>
+    <li><strong>Least Privilege</strong> - granting only the access necessary
+        to perform a task.</li>
+  </ul>
+</body>
+</html>

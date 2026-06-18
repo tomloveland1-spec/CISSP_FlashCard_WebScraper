@@ -1,0 +1,13 @@
+# Core scraping + export
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+PyYAML>=6.0          # parse the YAML-style .env credentials file
+
+# Tests
+pytest>=8.0
+
+# Browser login (only needed to mint a Wiley token via wiley_login.py).
+# Requires a Playwright-supported OS: Windows, macOS, or Ubuntu 22.04/24.04.
+# After install: python -m playwright install chromium
+playwright>=1.40
