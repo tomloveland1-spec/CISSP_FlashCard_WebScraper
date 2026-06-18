@@ -1,0 +1,146 @@
+lineno	term	v1_ch	v2_ch	v1_conf	v2_conf	v2_reason
+8	An attacker has launched an attack using a vulnerability known only to him. What is this called?	21	2	HIGH	MEDIUM	Zero-day exploit unknown vulnerability
+9	At what layer does SSL and TLS function?	7	11	MEDIUM	HIGH	SSL/TLS transport layer OSI
+14	Define anycast and geocast.	12	11	HIGH	MEDIUM	Anycast/geocast network communication concepts
+52	Define “trust but verify.”	13	14	LOW	MEDIUM	Trust but verify zero-trust contrast
+53	Describe broadcast, multicast, and unicast communications.	12	11	HIGH	MEDIUM	Broadcast multicast unicast communications
+56	Describe open and closed source.	9	20	MEDIUM	MEDIUM	Open and closed source code
+57	Describe open and closed systems.	9	8	HIGH	MEDIUM	Open and closed systems design
+69	Explain why the separation of duties and responsibilities is a common security practice.	2	16	MEDIUM	MEDIUM	Separation of duties operations practice
+71	How are audit trails used?	17	19	MEDIUM	MEDIUM	Audit trails reconstruct event investigation
+74	How are PVC, SVC, DTE, and DCE used in a WAN network link?	11	12	HIGH	HIGH	PVC SVC DTE DCE WAN link
+75	How are security and illegal activities related?	4	19	MEDIUM	MEDIUM	Security and illegal activities legal
+77	How can you protect data against fraud and theft?	14	17	LOW	MEDIUM	Access controls reduce fraud theft
+78	How do antivirus software packages detect known viruses?	17	21	MEDIUM	HIGH	Antivirus signature-based detection
+79	How do logical access controls protect assets?	14	13	MEDIUM	MEDIUM	Logical access controls authentication authorization
+81	How do salt and pepper thwart password attacks?	7	14	HIGH	HIGH	Salt pepper thwart rainbow table attacks
+82	How do salts improve the security of password hashing?	7	14	HIGH	HIGH	Salts improve password hashing rainbow tables
+87	How is abstraction used?	1	8	MEDIUM	HIGH	Abstraction grouping security controls
+105	In legal and ethical contexts to describe different standards of behavior or decision‐making, especially related to risk management, what are prudent actions?	1	2	MEDIUM	MEDIUM	Prudent actions risk management due care
+106	In legal and ethical contexts to describe different standards of behavior or decision‐making, especially related to risk management, what are reasonable actions?	1	2	MEDIUM	MEDIUM	Reasonable actions risk management standard
+117	In the context of security controls, what is tuning?	17	15	MEDIUM	MEDIUM	Tuning security controls reduce false positives
+147	Name the security issues surrounding secondary storage devices.	9	5	HIGH	MEDIUM	Secondary storage security; media handling
+163	Reviewing the recorded images from CCTV is what type of security control?	2	10	MEDIUM	MEDIUM	CCTV review detective control type
+170	True or false? Modern cryptosystems rely on the secrecy of the encryption algorithm.	1	6	MEDIUM	HIGH	Kerckhoffs principle algorithm secrecy
+171	True or false? Organizations participating in a mutual assistance agreement are typically located in the same geographic region.	18	3	HIGH	MEDIUM	Mutual assistance agreement geography BCP
+179	What acts as a placeholder variable in mathematical functions and is used in random number generation?	9	7	MEDIUM	MEDIUM	Nonce in random number generation
+183	What are audit trails?	19	17	MEDIUM	MEDIUM	Audit trails logging detective control
+205	What are examples of security management tasks which are used to provide oversight to the information security program?	16	15	HIGH	HIGH	Security management oversight log reviews
+209	What are expert systems, machine learning, and neural networks, and how do they function?	9	20	MEDIUM	HIGH	Expert systems/ML/neural networks
+215	What are incremental attacks?	21	19	MEDIUM	MEDIUM	Incremental attacks data diddling/salami crime
+221	What are MSSPs?	17	16	MEDIUM	HIGH	MSSPs managed security services cloud
+224	What are often added to passwords to make their resultant hash secure and resistant to rainbow attacks?	14	7	MEDIUM	MEDIUM	Salts against rainbow table hashing
+225	What are often added to passwords under Linux to make their resultant hash even more secure?	14	7	MEDIUM	MEDIUM	Salts on Linux password hashing
+230	What are scanning attacks?	15	12	MEDIUM	MEDIUM	Scanning attacks reconnaissance network
+235	What are security issues with managed services in the cloud?	9	16	HIGH	HIGH	Managed services cloud operational security
+236	What are security needs for media storage?	10	16	HIGH	MEDIUM	Media storage security operations
+243	What are some common threats that may occur through email?	21	12	MEDIUM	MEDIUM	Email threats, email security layer
+246	What are some concerns about defaults?	16	1	MEDIUM	LOW	Default settings security policy concern
+255	What are some important aspects to consider when designing email security?	7	12	MEDIUM	HIGH	Email security design aspects
+258	What are some of the elements that should be included in emergency response guidelines?	3	18	MEDIUM	HIGH	Emergency response guidelines, DR
+259	What are some of the means for a DNS poisoning or attack to occur?	12	11	HIGH	HIGH	DNS poisoning, DNS section
+260	What are some of the qualitative factors that must be taken into account when assessing the cost of a disaster?	18	3	MEDIUM	HIGH	Qualitative factors assessing disaster cost, BIA
+261	What are some of the terms used to describe the CPU mode that gives access to the full range of supported instructions?	9	8	HIGH	MEDIUM	CPU privileged mode, security capabilities
+266	What are some ways to keep inappropriate content to a minimum?	16	12	MEDIUM	MEDIUM	Content filtering inappropriate content
+268	What are terrorist attacks?	2	19	HIGH	MEDIUM	Terrorist attacks, computer crime category
+279	What are the characteristics of PPP?	12	11	HIGH	MEDIUM	PPP characteristics, protocols
+288	What are the common process states?	9	8	HIGH	MEDIUM	Process states, security capabilities
+290	What are the concepts of memory addressing?	9	8	HIGH	HIGH	Memory addressing concepts, architecture
+311	What are the goals of managing backup media?	16	5	HIGH	MEDIUM	Backup media management goals
+352	What are the six categories of computer crimes?	2	19	HIGH	HIGH	Six categories of computer crimes
+366	What are the three main types of physical security controls?	10	2	HIGH	MEDIUM	Control categories administrative/technical/physical
+378	What are the two modes available through IPSec, and what do they do?	12	7	HIGH	MEDIUM	IPSec transport/tunnel modes applied crypto
+383	What are the typical security capabilities of information systems?	9	8	HIGH	HIGH	Security capabilities of information systems
+386	What are the valid key sizes for RC5?	7	6	HIGH	HIGH	RC5 symmetric key sizes
+387	What are the variations of storage types?	9	20	HIGH	MEDIUM	Storage types primary/secondary volatile
+395	What are thrill attacks?	2	19	MEDIUM	MEDIUM	Thrill attacks computer crime motivation
+396	What are two forms of ARP poisoning?	12	11	HIGH	HIGH	ARP poisoning concerns
+402	What attack collects numerous low‐level security items or low‐value items and combines them to create something of a higher security level or value?	20	14	MEDIUM	HIGH	Aggregation access control attack
+403	What attack is often successful against polyalphabetic substitution ciphers?	6	7	MEDIUM	MEDIUM	Period analysis cryptographic attack
+404	What attack is often successful against substitution ciphers?	6	7	MEDIUM	MEDIUM	Frequency analysis cryptographic attack
+422	What defines the hardware and software requirements of cryptographic modules in use by the federal government?	7	6	MEDIUM	MEDIUM	FIPS-140 cryptographic module standard
+426	What does a business attack focus on?	2	19	MEDIUM	MEDIUM	Business attack computer crime category
+455	What governs how long records are kept to substantiate system security assessments and support system analysis?	5	15	MEDIUM	MEDIUM	Record retention security assessments
+461	What is a captive portal?	16	11	MEDIUM	MEDIUM	Captive portal wireless authentication
+463	What is a centralized database of resources available to the network?	11	13	MEDIUM	MEDIUM	Directory service network resources
+469	What is a cryptographic salt and what is it used for?	7	13	MEDIUM	MEDIUM	Cryptographic salt password protection
+479	What is a hardware‐based RoT?	9	8	MEDIUM	MEDIUM	Hardware root of trust TPM/HSM
+484	What is a load balancer?	11	12	MEDIUM	HIGH	Load balancing named Ch12 section
+488	What is a nonstatistical sampling method that only records or alerts on events that exceed a threshold?	16	15	MEDIUM	MEDIUM	Clipping levels security process data
+496	What is a project‐scheduling tool that is used to judge the size of a software product in development and calculate the standard deviation for risk assessment?	20	3	MEDIUM	MEDIUM	PERT project scheduling planning tool
+498	What is a proxy, and what is it used for?	11	12	MEDIUM	MEDIUM	Proxy network component on-behalf service
+503	What is a resource capacity agreement?	18	3	MEDIUM	MEDIUM	Resource capacity agreement DR planning
+509	What is a security champion?	1	2	MEDIUM	MEDIUM	Security champion personnel/awareness role
+516	What is a software bill of materials (SBOM)?	20	1	MEDIUM	MEDIUM	SBOM supply chain risk management
+524	What is a type of bar chart that shows the interrelationships over time between projects and schedules?	18	20	LOW	MEDIUM	Gantt chart SDLC project scheduling
+527	What is a virtualized network?	12	9	HIGH	MEDIUM	Virtualized network virtualization architecture
+533	What is always your top priority when dealing with a disaster of any type or significance?	3	18	HIGH	HIGH	Safety of personnel disaster priority
+537	What is an ARP attack?	12	11	HIGH	HIGH	ARP attack ARP concerns Ch11
+554	What is application whitelisting or allow listing?	17	14	HIGH	MEDIUM	Allow listing implicit deny authorization
+560	What is big data?	9	20	MEDIUM	MEDIUM	Big data analysis knowledge systems
+573	What is condition monitoring?	9	16	MEDIUM	MEDIUM	Condition monitoring operations maintenance
+584	What is data analytics?	15	20	MEDIUM	MEDIUM	Data analytics knowledge/data examination
+587	What is data localization?	4	9	MEDIUM	HIGH	Data localization named Ch9 section
+590	What is data sovereignty?	5	9	MEDIUM	HIGH	Data sovereignty named Ch9 section
+594	What is dense wavelength division multiplexing (DWDM)?	11	12	MEDIUM	MEDIUM	DWDM fiber-optic multiplexing WAN
+606	What is doxing?	19	2	MEDIUM	MEDIUM	Doxing relates to social engineering/threat actors
+638	What is industrial espionage?	2	4	MEDIUM	MEDIUM	Industrial espionage relates to trade secrets crime
+647	What is it called when an authorized party indicates its intention to fulfill some contractual obligation and forgoes its right to dispute that fulfillment after the fact?	7	13	MEDIUM	MEDIUM	Nonrepudiation accountability AAA concept
+665	What is more secure than a data warehouse and designed to store metadata?	5	20	MEDIUM	HIGH	Data mart is database/data warehousing Ch20
+666	What is MPLS?	11	12	HIGH	HIGH	MPLS is WAN switching technology Ch12
+667	What is NAC?	17	11	MEDIUM	MEDIUM	NAC network access control component
+674	What is nonrepudiation?	7	1	MEDIUM	HIGH	Nonrepudiation is CIA-related security concept Ch1
+686	What is privacy by design?	5	4	MEDIUM	MEDIUM	Privacy by design privacy law principle
+689	What is process isolation?	9	8	HIGH	HIGH	Process isolation is CIA technique Ch8
+697	What is RFID?	9	11	MEDIUM	MEDIUM	RFID radio tracking wireless technology
+704	What is sandboxing?	9	21	MEDIUM	MEDIUM	Sandboxing antimalware application isolation
+710	What is SDV?	12	11	MEDIUM	MEDIUM	SDV network monitoring visibility framework
+712	What is Secure Access Service Edge (SASE)?	12	11	MEDIUM	MEDIUM	SASE converges network security with WAN
+722	What is shared responsibility?	1	8	MEDIUM	HIGH	Shared responsibility as secure design principle
+726	What is SOA?	20	9	MEDIUM	MEDIUM	SOA/microservices architecture
+729	What is SPF?	11	12	MEDIUM	HIGH	SPF email security spam/spoofing
+734	What is static software testing?	20	15	MEDIUM	HIGH	Static software testing, code testing
+735	What is static testing?	20	15	MEDIUM	HIGH	Static testing, code testing
+739	What is Structured Threat Information eXpression (STIX)?	1	17	MEDIUM	MEDIUM	STIX threat intelligence sharing
+741	What is system resilience?	9	18	MEDIUM	HIGH	System resilience, high availability fault tolerance
+746	What is the basic idea that the information or privilege required to perform an operation is divided among multiple users (it is an application of separation of duties)?	7	6	MEDIUM	MEDIUM	Split knowledge, key management separation
+755	What is the concept of fail securely?	20	8	MEDIUM	MEDIUM	Fail securely, secure design failure handling
+760	What is the definition of computer crime?	4	19	HIGH	HIGH	Definition of computer crime
+763	What is the difference between active/active and active/passive?	18	12	MEDIUM	HIGH	Active-active/passive load balancing
+767	What is the difference between packet switching and circuit switching?	11	12	HIGH	HIGH	Packet vs circuit switching technologies
+770	What is the evil twin attack?	12	11	MEDIUM	HIGH	Evil twin attack wireless access point
+771	What is the first thing you should do when a disaster strikes?	3	18	MEDIUM	HIGH	People safe first when disaster strikes
+794	What is the importance of key security?	7	6	MEDIUM	MEDIUM	Key security, cryptographic key length
+811	What is the most important goal for all security solutions?	11	10	LOW	MEDIUM	Protecting people most important security goal
+812	What is the most significant bit in a string?	2	11	HIGH	LOW	Most significant bit, leftmost generic
+823	What is the practice of defense in depth called when it involves a multilayered security infrastructure that includes multiple combined individual applications and processes?	1	10	MEDIUM	MEDIUM	Concentric circle strategy defense in depth physical
+825	What is the primary method to improve fax security?	10	12	MEDIUM	HIGH	Fax security communications
+828	What is the primary weakness of satellite communications?	12	11	MEDIUM	HIGH	Satellite communications weakness network
+830	What is the principle of “keep it simple”?	1	8	MEDIUM	HIGH	Keep it simple secure design principle
+834	What is the proper name for a criminal act committed against an organization by a current or former employee who exploits knowledge gained on the job in its perpetration?	2	19	MEDIUM	HIGH	Sabotage, category of computer crime
+835	What is the proper name for the illegal intent behind obtaining and profiting from sensitive information that belongs to some third party (government, corporation, individual, and so on)?	2	19	MEDIUM	HIGH	Espionage, category of computer crime
+841	What is the purpose of account access reviews?	16	15	MEDIUM	HIGH	Account access reviews are assessment process data
+843	What is the purpose of an access review and audit?	14	15	MEDIUM	MEDIUM	Access review and audit assessment process
+844	What is the purpose of assurance procedures?	8	20	MEDIUM	MEDIUM	Assurance procedures across system life cycle
+852	What is the purpose of security monitoring and measurement?	15	1	MEDIUM	MEDIUM	Security monitoring and measurement governance
+869	What is third‐party governance?	2	1	MEDIUM	MEDIUM	Third-party governance oversight
+876	What is transparency?	1	8	MEDIUM	MEDIUM	Transparency characteristic of control
+881	What is typosquatting?	12	11	MEDIUM	MEDIUM	Typosquatting domain name redirect
+883	What is URL hijacking?	12	21	MEDIUM	MEDIUM	URL hijacking web redirect attack
+891	What is virtual networking?	12	9	HIGH	MEDIUM	Virtual networking virtualized systems
+907	What is zero trust?	11	14	MEDIUM	HIGH	Zero trust access policy enforcement
+945	What process is used to identify weaknesses?	2	15	MEDIUM	MEDIUM	Vulnerability analysis identifies weaknesses
+952	What security mechanisms are countermeasures to collusion?	2	16	HIGH	MEDIUM	Collusion countermeasures operations
+967	What term describes the act of using another person's security ID to gain unauthorized entry into a facility?	2	13	MEDIUM	MEDIUM	Masquerading using another's security ID
+969	What term identifies the data extraction technique whereby elements of data are extracted from a much larger body of data to construct a meaningful representation of its overall contents?	15	19	LOW	MEDIUM	Sampling as evidence/data extraction technique
+973	What term is used to refer to the user or process that makes a request to access a resource?	8	13	MEDIUM	HIGH	Subject makes access request, AAA
+978	What trend makes it especially important to incorporate an assessment of security controls in contracting and procurement reviews?	2	16	MEDIUM	MEDIUM	Third-party/cloud contracting procurement reviews
+985	What type of attack is thwarted with the use of bcrypt?	14	7	HIGH	HIGH	Bcrypt salting thwarts rainbow tables
+1004	What type of system is a common target of attackers who want to disseminate email spam?	17	12	MEDIUM	MEDIUM	Open relay SMTP email spam
+1010	What types of accounts are focused on during a user entitlement review?	14	15	HIGH	HIGH	User entitlement review of privileged accounts
+1014	What use is QoS?	11	12	MEDIUM	MEDIUM	QoS protects network data integrity
+1030	When users are granted only the minimum access necessary to complete some task or process, what principle is involved?	14	16	MEDIUM	MEDIUM	Least privilege principle
+1032	Where are passwords stored in a Unix or Linux system?	13	9	MEDIUM	MEDIUM	Unix password storage, system architecture
+1039	Which form of antivirus response not only removes the virus from the system but also repairs any related damage?	17	21	MEDIUM	HIGH	Antivirus cleaning response
+1044	Which type of computer crime would likely be timed to occur simultaneously with a physical attack to reduce the ability to effectively respond to the physical attack?	4	19	MEDIUM	HIGH	Terrorist attack computer crime category
+1064	With what level of security precautions should backup media be treated?	18	5	MEDIUM	MEDIUM	Backup media data classification handling

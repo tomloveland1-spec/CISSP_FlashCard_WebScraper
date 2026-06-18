@@ -1,0 +1,1065 @@
+1	10	MEDIUM	Physical first / people last line of defense
+2	2	HIGH	APT threat actor definition
+3	15	HIGH	White-box penetration testing team
+4	5	HIGH	Anonymization data protection method
+5	5	HIGH	Pseudonymization data protection method
+6	17	MEDIUM	Behavior-based IDS baseline update operationally
+7	17	HIGH	Computer security incident definition
+8	2	MEDIUM	Zero-day exploit unknown vulnerability
+9	11	HIGH	SSL/TLS transport layer OSI
+10	10	HIGH	Fire stages physical fire detection
+11	5	HIGH	Data destruction methods clearing/purging/degaussing
+12	10	HIGH	Fail-open door system physical
+13	10	HIGH	Fail-secure door system physical
+14	11	MEDIUM	Anycast/geocast network communication concepts
+15	7	HIGH	Blockchain applied cryptography
+16	9	MEDIUM	Cloud solution deployment architecture
+17	8	HIGH	Confinement bounds isolation design technique
+18	9	HIGH	COPE mobile device strategy
+19	9	HIGH	CYOD mobile device strategy
+20	10	HIGH	Emanation security TEMPEST physical
+21	9	MEDIUM	Hosted solution deployment concept
+22	9	MEDIUM	On-premise solution deployment concept
+23	13	MEDIUM	PAP CHAP EAP authentication protocols
+24	1	HIGH	Proactive threat modeling
+25	1	HIGH	Reactive threat modeling
+26	15	HIGH	Security control assessment SCA
+27	5	HIGH	SBU classification level
+28	2	HIGH	Social engineering definition principles
+29	1	HIGH	Confidentiality aspect concealment CIA
+30	1	HIGH	Confidentiality aspect criticality CIA
+31	1	HIGH	Confidentiality aspect discretion CIA
+32	1	HIGH	Confidentiality aspect isolation CIA
+33	1	HIGH	Confidentiality aspect privacy CIA
+34	1	HIGH	Confidentiality aspect seclusion CIA
+35	1	HIGH	Confidentiality aspect secrecy CIA
+36	1	HIGH	Confidentiality aspect sensitivity CIA
+37	8	HIGH	Bell-LaPadula security model
+38	8	HIGH	Biba security model
+39	8	HIGH	Clark-Wilson security model
+40	8	HIGH	Common Criteria evaluation
+41	8	MEDIUM	Access control matrix security model
+42	2	HIGH	Risk management concept definition
+43	8	HIGH	Graham-Denning security model
+44	8	HIGH	Information flow security model
+45	8	HIGH	Noninterference security model
+46	8	HIGH	State machine security model
+47	8	HIGH	Take-grant security model
+48	4	HIGH	Software license agreement types
+49	8	MEDIUM	Trust and assurance security capabilities
+50	11	HIGH	WPA2 wireless network standard
+51	11	HIGH	WPA3 wireless network standard
+52	14	MEDIUM	Trust but verify zero-trust contrast
+53	11	MEDIUM	Broadcast multicast unicast communications
+54	15	HIGH	Capture-the-flag exercise red team
+55	9	HIGH	Large-scale parallel data systems HPC
+56	20	MEDIUM	Open and closed source code
+57	8	MEDIUM	Open and closed systems design
+58	5	HIGH	Record retention policy handling
+59	21	MEDIUM	JavaScript security mobile code concerns
+60	9	HIGH	Corporate-owned mobile device strategy
+61	9	HIGH	Storage device characteristics hardware
+62	9	HIGH	Memory types ROM RAM hardware
+63	20	HIGH	Software development models waterfall/agile/spiral
+64	20	HIGH	Software maturity models purpose
+65	18	MEDIUM	Test communications DR testing stakeholders
+66	7	HIGH	Cryptographic attacks AitM birthday replay
+67	7	HIGH	Cryptographic attacks ciphertext brute-force
+68	9	HIGH	Multitasking multicore multiprocessing CPU
+69	16	MEDIUM	Separation of duties operations practice
+70	20	MEDIUM	Cohesive objects OOP concept
+71	19	MEDIUM	Audit trails reconstruct event investigation
+72	7	HIGH	Digital signatures generation verification
+73	14	MEDIUM	Domains decentralized access control
+74	12	HIGH	PVC SVC DTE DCE WAN link
+75	19	MEDIUM	Security and illegal activities legal
+76	7	MEDIUM	Cryptosystems authentication challenge-response
+77	17	MEDIUM	Access controls reduce fraud theft
+78	21	HIGH	Antivirus signature-based detection
+79	13	MEDIUM	Logical access controls authentication authorization
+80	10	MEDIUM	Physical access controls protect assets
+81	7	MEDIUM	Salt/pepper crypto countermeasure; consolidated
+82	7	MEDIUM	Salt password hashing; consolidated crypto family
+83	21	HIGH	Protect against malicious code incident
+84	13	HIGH	Identification process AAA
+85	15	HIGH	Penetration testing improves security
+86	12	HIGH	Teardrop attack overlapping fragments
+87	8	HIGH	Abstraction grouping security controls
+88	13	HIGH	Accountability maintained through auditing
+89	13	HIGH	Kerberos ticket-granting ticket generation
+90	4	HIGH	Trade secret protection lasts indefinitely
+91	11	HIGH	UDP header 8 bytes
+92	20	HIGH	Database table one primary key
+93	6	HIGH	DES 16 rounds symmetric
+94	11	HIGH	TCP 65536 sockets ports
+95	18	HIGH	Mobile site recovery transportable
+96	5	HIGH	Sensitive information management handling
+97	2	HIGH	Employee transfers personnel security
+98	2	MEDIUM	Procurement vendor governance security
+99	10	HIGH	Water leakage flooding physical environment
+100	10	HIGH	Visitor handling secure facility physical
+101	7	HIGH	Sign encrypt security services nonrepudiation
+102	19	HIGH	Chain of evidence court authentication
+103	17	MEDIUM	Incident reporting guidelines security policy
+104	7	HIGH	SHA-3 Keccak hash standard
+105	2	MEDIUM	Prudent actions risk management due care
+106	2	MEDIUM	Reasonable actions risk management standard
+107	15	MEDIUM	Sampling data extraction audit
+108	2	HIGH	Hazard risk source definition
+109	5	HIGH	Clearing storage media overwriting
+110	5	HIGH	Declassification purging media reuse
+111	5	HIGH	Erasing media delete operation
+112	5	HIGH	Purging storage media intense clearing
+113	5	HIGH	Sanitization removes data from media
+114	8	HIGH	Biba Simple Integrity Axiom no read-down
+115	8	HIGH	Clark-Wilson integrity verification procedure IVP
+116	2	HIGH	Scope risk management process
+117	15	MEDIUM	Tuning security controls reduce false positives
+118	9	MEDIUM	Storage device access random sequential
+119	20	HIGH	Software CMM Initial phase
+120	8	HIGH	Protection ring 3 user applications
+121	17	HIGH	Root cause analysis in incident response remediation
+122	2	MEDIUM	Influence campaigns/misleading content under social engineering
+123	19	HIGH	ISC2 Code of Ethics adherence
+124	18	MEDIUM	Disaster recovery vs restoration tasks
+125	13	HIGH	Authentication factors definition
+126	11	MEDIUM	OSI Network layer security features
+127	20	HIGH	Coupling/cohesion OOP software design concept
+128	9	MEDIUM	Secondary memory classification, architecture
+129	17	HIGH	SIEM/SEM/SIM monitoring systems
+130	9	MEDIUM	Nonvolatile memory architecture concept
+131	11	HIGH	OSPF link state routing protocol
+132	13	HIGH	Biometric factors enumeration
+133	11	HIGH	Networking device types as components
+134	2	MEDIUM	Threats evaluated in risk analysis
+135	11	HIGH	Wireless technologies enumeration
+136	1	HIGH	Security management concepts and principles
+137	9	MEDIUM	Mobile device terminology
+138	11	HIGH	Infrastructure mode wireless networking examples
+139	11	HIGH	Distance vector routing protocols
+140	2	HIGH	Social engineering attack types
+141	2	MEDIUM	Risk frameworks RMF/COBIT/etc
+142	11	HIGH	Wireless frequency access technologies
+143	3	MEDIUM	Natural disasters BIA threat list
+144	9	MEDIUM	Memory component security issues
+145	11	HIGH	Common network topologies
+146	13	MEDIUM	Access control principles identification/authentication
+147	5	MEDIUM	Secondary storage security; media handling
+148	11	HIGH	OSI seven layers naming
+149	1	HIGH	Threat identification approaches threat modeling
+150	5	HIGH	Subject roles owner/custodian data roles
+151	4	HIGH	Computer crime laws CFAA/ECPA
+152	10	HIGH	Administrative physical security controls
+153	10	HIGH	Technical physical security controls
+154	1	HIGH	Ranking threats DREAD threat modeling
+155	10	HIGH	Physical controls fencing/locks/mantraps
+156	5	HIGH	DLP types network/endpoint
+157	15	HIGH	Fuzz testing types software testing
+158	11	HIGH	Layer 3 broadcast domains
+159	11	HIGH	Layer 2 collision domains
+160	11	HIGH	802.11 beacon frame SSID
+161	17	MEDIUM	Restore after intrusion format reinstall
+162	10	MEDIUM	Fire suppression/UPS system hardening physical
+163	10	MEDIUM	CCTV review detective control type
+164	15	HIGH	KPIs/security metrics process data
+165	8	HIGH	Bell-LaPadula/Biba/Clark-Wilson security models
+166	20	HIGH	Fagan code review software development
+167	6	MEDIUM	Ciphers obscure meaning cryptographic foundations
+168	6	MEDIUM	Codes vs ciphers cryptographic foundations
+169	4	MEDIUM	Employer email monitoring legal
+170	6	HIGH	Kerckhoffs principle algorithm secrecy
+171	3	MEDIUM	Mutual assistance agreement geography BCP
+172	7	MEDIUM	PEM replay protection applied cryptography
+173	3	HIGH	Senior management in BCP process
+174	7	MEDIUM	S-HTTP secures individual messages
+175	7	HIGH	HMAC nonrepudiation hashing
+176	6	MEDIUM	IDEA algorithm symmetric cipher
+177	18	MEDIUM	Electronic vaulting standards backups
+178	14	HIGH	Mandatory access control security labels
+179	7	MEDIUM	Nonce in random number generation
+180	20	HIGH	ODBC database interface
+181	9	MEDIUM	Direct addressing CPU memory
+182	4	HIGH	Fourth Amendment privacy basis
+183	17	MEDIUM	Audit trails logging detective control
+184	21	MEDIUM	Botnets/bot herder malware threats
+185	14	HIGH	Authorization mechanisms implicit deny
+186	9	HIGH	Mobile device deployment policy MDM
+187	10	HIGH	Physical perimeter security controls
+188	16	MEDIUM	Network administrative functions operations
+189	11	HIGH	Common network devices components
+190	21	MEDIUM	Zombies botnet computers malware
+191	11	HIGH	Converged protocols multilayer protocols
+192	12	HIGH	Spoofing attack countermeasures network
+193	8	MEDIUM	Covert channels security architecture flaws
+194	9	HIGH	Distributed systems architecture
+195	1	HIGH	Due care and due diligence governance
+196	2	HIGH	User training against social engineering
+197	11	MEDIUM	QoS elements network components
+198	9	HIGH	Embedded systems static environment security
+199	11	MEDIUM	Bluetooth attacks wireless
+200	13	MEDIUM	EAP methods authentication
+201	12	HIGH	Email security solutions S/MIME/SPF/DMARC
+202	13	MEDIUM	Kerberos exploitation attacks
+203	13	MEDIUM	Proximity devices authentication
+204	14	HIGH	Rule-based access control examples
+205	15	HIGH	Security management oversight log reviews
+206	13	HIGH	SSO methods SAML/OAuth/OIDC
+207	17	MEDIUM	Log file types logging monitoring
+208	11	MEDIUM	Wi-Fi attacks wireless
+209	20	HIGH	Expert systems/ML/neural networks
+210	10	HIGH	Secure work areas facility design
+211	19	MEDIUM	Financial attacks computer crime category
+212	11	HIGH	DNS poisoning; consolidated to DNS section
+213	19	MEDIUM	Grudge attacks computer crime category
+214	9	HIGH	HPC systems architecture
+215	19	MEDIUM	Incremental attacks data diddling/salami crime
+216	14	HIGH	Mandatory access control model concepts
+217	2	MEDIUM	Threat evaluation risk management
+218	10	HIGH	Physical security KPIs
+219	21	MEDIUM	Blocking malicious code antimalware
+220	9	HIGH	Microservices architecture
+221	16	HIGH	MSSPs managed security services cloud
+222	18	MEDIUM	MTTF/MTTR/MTBF fault tolerance
+223	15	HIGH	Network vulnerability scans assessment
+224	7	MEDIUM	Salts against rainbow table hashing
+225	7	MEDIUM	Salts on Linux password hashing
+226	9	HIGH	Parallel data systems HPC architecture
+227	7	MEDIUM	Email security mechanisms crypto S/MIME/PEM/PGP
+228	8	HIGH	Protection rings security capabilities
+229	2	HIGH	Risk perspectives risk management
+230	12	MEDIUM	Scanning attacks reconnaissance network
+231	5	HIGH	Scoping and tailoring baselines
+232	10	HIGH	Camera security concepts CCTV
+233	19	MEDIUM	Evidence storage forensic investigations
+234	5	HIGH	Security control baselines scoping/tailoring
+235	16	HIGH	Managed services cloud operational security
+236	16	MEDIUM	Media storage security operations
+237	9	MEDIUM	Input/output device security risks
+238	9	MEDIUM	Smart devices ML embedded
+239	13	HIGH	Smartcards identification/authentication
+240	18	HIGH	Snapshots VM backups recovery
+241	9	HIGH	Virtualization benefits, architecture topic
+242	7	HIGH	Certificate revocation, PKI
+243	12	MEDIUM	Email threats, email security layer
+244	10	HIGH	Physical access control threats
+245	12	HIGH	VPN protocols
+246	1	LOW	Default settings security policy concern
+247	17	MEDIUM	Countermeasures, incident prevention measures
+248	12	MEDIUM	Eavesdropping countermeasures, network attacks
+249	9	HIGH	Mobile device security elements
+250	18	HIGH	Alternate processing facilities for DRP
+251	2	MEDIUM	Detective control examples
+252	10	HIGH	Internal physical security controls
+253	10	HIGH	Physical access controls examples
+254	11	MEDIUM	Firewall types as network components
+255	12	HIGH	Email security design aspects
+256	9	MEDIUM	Cloud computing concerns, architecture
+257	5	HIGH	Storage media destruction methods
+258	18	HIGH	Emergency response guidelines, DR
+259	11	HIGH	DNS poisoning, DNS section
+260	3	HIGH	Qualitative factors assessing disaster cost, BIA
+261	8	MEDIUM	CPU privileged mode, security capabilities
+262	2	MEDIUM	Safeguards against sabotage, personnel
+263	20	MEDIUM	Design and coding flaws, secure coding
+264	9	HIGH	Virtualization security issues
+265	12	HIGH	VoIP security issues
+266	12	MEDIUM	Content filtering inappropriate content
+267	15	HIGH	Synthetic transactions, dynamic testing
+268	19	MEDIUM	Terrorist attacks, computer crime category
+269	1	MEDIUM	Pillars of information security, CIA concepts
+270	19	HIGH	Confiscating evidence, investigations
+271	11	HIGH	Routing protocols, network components
+272	6	HIGH	Symmetric cryptosystem modes
+273	4	HIGH	DMCA copyright law
+274	4	HIGH	Economic Espionage Act trade secrets
+275	10	HIGH	Guard dogs, physical security
+276	11	HIGH	Multilayer protocols, OSI
+277	10	HIGH	Security guards benefits, physical
+278	19	HIGH	Forensic analysis branches
+279	11	MEDIUM	PPP characteristics, protocols
+280	2	HIGH	Qualitative risk analysis, risk management
+281	2	HIGH	Quantitative risk analysis, risk management
+282	6	HIGH	AES symmetric algorithm
+283	2	HIGH	Security control type classifications
+284	7	MEDIUM	Cryptography for email, S/MIME PGP internals
+285	7	HIGH	IPsec cryptography applications
+286	7	HIGH	TLS hybrid cryptography web
+287	2	MEDIUM	Employee oversight, personnel management
+288	8	MEDIUM	Process states, security capabilities
+289	13	HIGH	AAA model components
+290	8	HIGH	Memory addressing concepts, architecture
+291	4	HIGH	Copyright trademark patent trade secret
+292	4	HIGH	Criminal civil administrative law
+293	17	HIGH	HIDS vs NIDS, detection measures
+294	17	HIGH	Knowledge vs behavior IDS detection
+295	6	MEDIUM	Symmetric vs asymmetric cryptosystems
+296	10	HIGH	Security guards disadvantages, physical
+297	10	HIGH	Electrical terms, power physical
+298	2	HIGH	Termination procedure policy, personnel
+299	13	HIGH	AAA service five elements
+300	3	HIGH	Business impact assessment steps
+301	18	HIGH	DR plan test types
+302	15	MEDIUM	NIST 800-53A assessment components
+303	7	HIGH	IPSec components, crypto application
+304	3	HIGH	Business continuity planning phases
+305	11	HIGH	TCP header flags, transport layer
+306	10	HIGH	Water-based fire suppression systems
+307	17	HIGH	IDS functions, detection measures
+308	20	HIGH	SAMM maturity model, software dev
+309	7	HIGH	Hash function requirements
+310	16	HIGH	Change management goals
+311	5	MEDIUM	Backup media management goals
+312	7	HIGH	Hashing algorithms SHA
+313	16	HIGH	Change configuration management elements
+314	2	HIGH	Personnel management factors
+315	13	HIGH	Biometric enrollment throughput
+316	14	HIGH	ABAC access control model
+317	14	HIGH	DAC access control model
+318	14	HIGH	Risk-based access control model
+319	14	HIGH	RBAC access control model
+320	14	HIGH	Rule-based access control model
+321	2	HIGH	Risk analysis key elements
+322	7	HIGH	Asymmetric cryptography key types
+323	3	HIGH	BCP legal regulatory requirements
+324	4	MEDIUM	Legal responsibilities, laws compliance
+325	18	HIGH	Disaster recovery program elements
+326	4	HIGH	Privacy laws GDPR PIPEDA
+327	20	HIGH	Systems development models, SDLC
+328	11	MEDIUM	Network failure causes, cabling
+329	12	HIGH	Threats against communication systems
+330	11	HIGH	OSI layer network containers PDU
+331	10	HIGH	Environmental levels HVAC, physical
+332	4	HIGH	HITECH breach notification, HIPAA
+333	20	MEDIUM	IDEAL Model phases, maturity
+334	2	HIGH	Risk responses
+335	2	HIGH	Risk responses senior management
+336	5	HIGH	Media reuse clearing purging degaussing
+337	21	HIGH	Virus propagation techniques, malware
+338	17	HIGH	Host-based IDS pros cons
+339	17	HIGH	Network-based IDS pros cons
+340	13	HIGH	Accountability requirements, AAA
+341	6	MEDIUM	One-time pad requirements, symmetric
+342	5	HIGH	Data custodian processor roles
+343	5	HIGH	Data owner system owner roles
+344	20	MEDIUM	Object behavior, OOP concept
+345	20	HIGH	Coding tools, software development
+346	10	HIGH	Wiring closet security, physical
+347	8	HIGH	Security target, Common Criteria
+348	2	HIGH	Hiring security implications, personnel
+349	8	HIGH	Protection profile, Common Criteria
+350	1	HIGH	PASTA threat modeling stages
+351	20	HIGH	SQL commands, databases
+352	19	HIGH	Six categories of computer crimes
+353	11	HIGH	TCP header flags order, transport
+354	1	HIGH	COBIT governance principles
+355	20	HIGH	SW-CMM stages, maturity model
+356	11	HIGH	802.11 WPA2 wireless encryption
+357	16	HIGH	Patch management program steps
+358	3	HIGH	Business impact analysis steps
+359	18	MEDIUM	Database backup technologies, recovery
+360	4	HIGH	Data breach notification laws
+361	13	HIGH	Authentication factors are AAA model
+362	5	HIGH	Data states at-rest/in-transit/in-use asset handling
+363	7	HIGH	Digital signature standard asymmetric algorithms
+364	8	HIGH	NIACAP certification and accreditation
+365	2	HIGH	Awareness/training/education security program
+366	2	MEDIUM	Control categories administrative/technical/physical
+367	20	MEDIUM	Functional requirement in development controls
+368	19	HIGH	Evidence admissibility requirements
+369	18	HIGH	Hot/warm/cold alternative processing sites
+370	7	HIGH	RSA/ElGamal/ECC public key cryptosystems
+371	18	HIGH	Full/incremental/differential backups
+372	11	HIGH	TCP three-way handshake protocol
+373	4	HIGH	Patent requirements intellectual property
+374	1	MEDIUM	Strategic/tactical/operational security management planning
+375	11	MEDIUM	DHCPv6 IP networking modes
+376	20	HIGH	SD3+C secure development goals
+377	12	HIGH	DoS forms network attack
+378	7	MEDIUM	IPSec transport/tunnel modes applied crypto
+379	4	HIGH	Trademark application requirements
+380	2	HIGH	NDA types personnel security
+381	10	HIGH	Common/traverse mode noise power
+382	10	HIGH	HVAC requirements computer room
+383	8	HIGH	Security capabilities of information systems
+384	20	MEDIUM	System development lifecycle stages
+385	17	HIGH	Incident response steps
+386	6	HIGH	RC5 symmetric key sizes
+387	20	MEDIUM	Storage types primary/secondary volatile
+388	11	HIGH	Network segmentation types intranet/extranet
+389	21	HIGH	Application attacks buffer overflow/TOCTOU/rootkits
+390	19	HIGH	Evidence types real/documentary/testimonial
+391	17	HIGH	Threat feeds and threat hunting
+392	9	HIGH	ICS forms DCS/PLC/SCADA
+393	11	MEDIUM	LAN media access methods
+394	13	HIGH	RADIUS/DIAMETER/TACACS+ AAA services
+395	19	MEDIUM	Thrill attacks computer crime motivation
+396	11	HIGH	ARP poisoning concerns
+397	11	HIGH	Wireless antenna types
+398	2	MEDIUM	UBA/UEBA personnel security monitoring
+399	9	HIGH	VDI/VMI virtualization mobile
+400	15	HIGH	Vulnerability scans assessment
+401	15	HIGH	Web vulnerability scanners assessment
+402	14	HIGH	Aggregation access control attack
+403	7	MEDIUM	Period analysis cryptographic attack
+404	7	MEDIUM	Frequency analysis cryptographic attack
+405	18	MEDIUM	Backup media personal vs network
+406	3	HIGH	MTD business impact analysis variable
+407	16	MEDIUM	Entitlement review least privilege operations
+408	21	HIGH	Antivirus response; consolidated to malware chapter
+409	20	HIGH	Software escrow development controls
+410	9	HIGH	Remote wipe mobile device
+411	16	HIGH	Verify patches patch management
+412	20	HIGH	Polymorphism OOP concept
+413	11	HIGH	FQDN DNS components
+414	1	HIGH	Data hiding security concept
+415	2	MEDIUM	Errors and omissions countermeasures training
+416	5	HIGH	Data classification criteria
+417	7	HIGH	Statistical cryptographic attack
+418	7	HIGH	Analytic cryptographic attack
+419	7	HIGH	Implementation cryptographic attack
+420	20	HIGH	Database partitioning aggregation/inference
+421	20	HIGH	Concurrency database locking
+422	6	MEDIUM	FIPS-140 cryptographic module standard
+423	15	MEDIUM	Risk determines audit frequency
+424	10	HIGH	Fire suppression water supply
+425	15	MEDIUM	Ethical hacker penetration testing
+426	19	MEDIUM	Business attack computer crime category
+427	10	HIGH	Cable plant management physical
+428	19	HIGH	Civil investigation focus
+429	19	HIGH	Criminal investigation focus
+430	19	HIGH	Operational investigation focus
+431	3	HIGH	BCP business continuity planning
+432	18	HIGH	DRP disaster recovery planning
+433	10	HIGH	EMI electromagnetic interference physical
+434	16	HIGH	Imaging provides configuration management baseline
+435	8	HIGH	ITSEC target of evaluation
+436	21	MEDIUM	Backdoor created by malicious code
+437	8	HIGH	Goguen-Meseguer integrity model
+438	8	HIGH	Sutherland integrity model
+439	10	HIGH	UPS uninterruptible power supply
+440	6	HIGH	Rijndael selected for AES
+441	20	HIGH	Polyinstantiation database feature
+442	2	MEDIUM	Insurance ACV risk transfer
+443	14	HIGH	MAC access control model
+444	14	HIGH	RBAC access control model
+445	18	MEDIUM	Periodic backups data loss
+446	7	HIGH	Asymmetric cryptography no prior secure channel
+447	6	HIGH	Stream ciphers real-time encryption
+448	17	MEDIUM	Host-based IDS detection
+449	14	HIGH	Hybrid password attack
+450	15	HIGH	Test data method testing
+451	15	HIGH	Gray-box testing
+452	15	HIGH	Black-box testing
+453	15	HIGH	White-box testing
+454	18	HIGH	Backup archive bit full/incremental
+455	15	MEDIUM	Record retention security assessments
+456	16	HIGH	Change management prevents weakening
+457	16	HIGH	Change management prevents outages
+458	13	MEDIUM	802.1X port-based authentication EAP
+459	11	HIGH	Broadcast storm Ethernet network
+460	1	MEDIUM	Business case governance justification
+461	11	MEDIUM	Captive portal wireless authentication
+462	11	HIGH	CDN content distribution network
+463	13	MEDIUM	Directory service network resources
+464	9	MEDIUM	CASB cloud security broker
+465	20	HIGH	Code repository development controls
+466	13	MEDIUM	Cognitive password authentication
+467	9	HIGH	Community cloud architecture model
+468	7	MEDIUM	Zero-knowledge proof cryptography
+469	7	MEDIUM	Cryptographic salt; consolidated crypto family
+470	9	HIGH	Cyber-physical system embedded
+471	12	HIGH	Denial-of-service network attack
+472	21	HIGH	Drive-by download malware
+473	18	HIGH	Failover cluster fault tolerance
+474	15	HIGH	False negative vulnerability scanner
+475	15	HIGH	False positive vulnerability scanner
+476	10	HIGH	Faraday cage EM emanations physical
+477	17	MEDIUM	Audit trail reconstruct events
+478	9	HIGH	Guest OS virtualization
+479	8	MEDIUM	Hardware root of trust TPM/HSM
+480	21	MEDIUM	Homograph attack phony domains
+481	17	HIGH	Honeynet detection/prevention measure
+482	17	HIGH	Honeypot/honeynet detection measure
+483	9	HIGH	Hybrid cloud architecture model
+484	12	HIGH	Load balancing named Ch12 section
+485	11	MEDIUM	Local cache ARP/DNS networking concept
+486	11	HIGH	MAC address IP networking addressing
+487	9	HIGH	Microcontroller embedded/hardware architecture
+488	15	MEDIUM	Clipping levels security process data
+489	17	HIGH	Padded cell intrusion isolation measure
+490	15	HIGH	Penetration test lives in assessment
+491	9	MEDIUM	PUF hardware security feature
+492	12	HIGH	Ping flood network attack DoS
+493	20	MEDIUM	Bind variable database secure coding
+494	9	HIGH	PLC industrial control systems
+495	9	HIGH	Private cloud architecture model
+496	3	MEDIUM	PERT project scheduling planning tool
+497	11	HIGH	Protocol analyzer network traffic analysis
+498	12	MEDIUM	Proxy network component on-behalf service
+499	17	MEDIUM	Pseudo-flaw used on honeypots
+500	9	HIGH	Public cloud architecture model
+501	6	HIGH	Initialization vector symmetric cipher mode
+502	12	HIGH	Replay attack network attack
+503	3	MEDIUM	Resource capacity agreement DR planning
+504	2	HIGH	Risk framework risk management concept
+505	21	HIGH	Rootkit malware specimen
+506	15	HIGH	Security assessment named Ch15 topic
+507	15	HIGH	Security audit assessment testing
+508	1	HIGH	Security boundary named Ch1 section
+509	2	MEDIUM	Security champion personnel/awareness role
+510	10	HIGH	Secure facility plan physical security
+511	15	HIGH	Security test verifies control functioning
+512	8	MEDIUM	Security token security capability attribute
+513	11	HIGH	Site survey wireless signal assessment
+514	9	HIGH	Smart device mobile device architecture
+515	12	MEDIUM	Sniffer attack eavesdropping network attack
+516	1	MEDIUM	SBOM supply chain risk management
+517	12	HIGH	Spamming attack email layer DoS
+518	12	HIGH	Split/full tunnel VPN configuration
+519	12	HIGH	Spoofing attack network attack
+520	9	HIGH	Static system embedded environment
+521	8	MEDIUM	Trust anchor security capability concept
+522	8	HIGH	TCB security capability of system
+523	10	HIGH	Type C fire extinguisher physical
+524	20	MEDIUM	Gantt chart SDLC project scheduling
+525	9	MEDIUM	BSOD OS-imposed protection mechanism
+526	9	HIGH	VPC virtualized cloud network architecture
+527	9	MEDIUM	Virtualized network virtualization architecture
+528	12	HIGH	VLAN switching/segmentation Ch12
+529	12	HIGH	VPN named Ch12 section
+530	7	HIGH	Work function cryptographic strength measure
+531	12	MEDIUM	Zoom room multimedia collaboration
+532	14	HIGH	ABAC access control model
+533	18	HIGH	Safety of personnel disaster priority
+534	12	HIGH	AitM/MitM on-path network attack
+535	20	HIGH	API named Ch20 software topic
+536	2	HIGH	APT threat actor risk management
+537	11	HIGH	ARP attack ARP concerns Ch11
+538	5	MEDIUM	Asset classifying/labeling early step
+539	9	HIGH	Edge network architecture section
+540	9	HIGH	Embedded system architecture section
+541	6	HIGH	Vigenere polyalphabetic substitution cipher
+542	7	HIGH	M of N key escrow split knowledge
+543	2	HIGH	Exposure factor quantitative risk analysis
+544	7	MEDIUM	HSM cryptoprocessor key management
+545	9	HIGH	ICS industrial control systems section
+546	2	HIGH	SLA vendor agreement personnel security
+547	11	HIGH	SSID wireless networks naming
+548	9	HIGH	Android mobile device OS
+549	2	HIGH	ALE quantitative risk management calculation
+550	2	HIGH	ARO quantitative risk management
+551	11	HIGH	Bluetooth PAN wireless networks
+552	9	MEDIUM	MBR boot sector hardware/firmware
+553	9	HIGH	Firmware microcode hardware architecture
+554	14	MEDIUM	Allow listing implicit deny authorization
+555	10	HIGH	AFFF fire suppression physical
+556	11	HIGH	ARP resolves IP to MAC
+557	13	HIGH	Auditing accountability AAA model
+558	2	MEDIUM	ATO RMF authorization risk management
+559	10	HIGH	AREX door exit physical access control
+560	20	MEDIUM	Big data analysis knowledge systems
+561	9	MEDIUM	Bricking mobile/device disablement
+562	11	HIGH	BPL broadband over power lines
+563	3	HIGH	Business org analysis BCP step
+564	9	HIGH	BYOD mobile device policy
+565	16	HIGH	Change management named Ch16 section
+566	21	MEDIUM	Clickjacking web application attack
+567	9	HIGH	Cloud computing architecture concept
+568	9	MEDIUM	Cloud storage architecture concept
+569	15	HIGH	Code review software testing assessment
+570	1	HIGH	Compliance security governance concept
+571	11	MEDIUM	CXL converged protocol interconnect
+572	9	HIGH	COMS/COBO mobile device strategy
+573	16	MEDIUM	Condition monitoring operations maintenance
+574	9	HIGH	Containerization OS virtualization architecture
+575	13	HIGH	Context-aware authentication MDM identity
+576	1	HIGH	COBIT governance principles section
+577	9	MEDIUM	CORBA distributed computing standard
+578	10	HIGH	CPTED facility design physical security
+579	13	HIGH	Credential management identity management
+580	3	HIGH	Critical path analysis BCP planning
+581	2	HIGH	Cross-training job rotation personnel
+582	15	MEDIUM	CVE vulnerability identification scanning
+583	2	HIGH	Cyber insurance risk transfer
+584	20	MEDIUM	Data analytics knowledge/data examination
+585	5	HIGH	Data classification asset protection
+586	1	HIGH	Data hiding security concept Ch1
+587	9	HIGH	Data localization named Ch9 section
+588	4	MEDIUM	Data portability privacy law right
+589	5	HIGH	Data remanence destruction asset handling
+590	9	HIGH	Data sovereignty named Ch9 section
+591	12	HIGH	DDoS network attack
+592	1	MEDIUM	Defense in breadth security concept
+593	5	HIGH	Degaussing data destruction asset handling
+594	12	MEDIUM	DWDM fiber-optic multiplexing WAN
+595	20	HIGH	DevOps SDLC development section
+596	20	HIGH	DevSecOps secure development section
+597	2	MEDIUM	Disinformation social engineering tool
+598	5	HIGH	DLP data protection method
+599	9	MEDIUM	DNP3 ICS multilayer protocol
+600	11	HIGH	DNS pharming; consolidated to DNS section
+601	11	HIGH	DNS poisoning; consolidated to DNS section
+602	11	HIGH	DNS is a named Ch11 section
+603	11	HIGH	DNSSEC is a named Ch11 section
+604	15	MEDIUM	Documentation review part of security assessment
+605	12	MEDIUM	Domain hijacking network attack with hijacking
+606	2	MEDIUM	Doxing relates to social engineering/threat actors
+607	12	HIGH	DRDoS is a DoS network attack
+608	1	HIGH	DREAD is a threat modeling system
+609	4	HIGH	DRM enforces copyright intellectual property
+610	15	HIGH	Dynamic testing is software testing
+611	9	HIGH	Edge computing is named Ch9 architecture section
+612	17	MEDIUM	EDR is detection and response tool
+613	5	MEDIUM	Egress monitoring DLP data exfiltration prevention
+614	19	HIGH	eDiscovery is named Ch19 investigations topic
+615	10	HIGH	EMSEC emanations replaces TEMPEST physical security
+616	11	HIGH	Encapsulation header layering OSI model concept
+617	9	MEDIUM	Endpoint security device-level client-based system
+618	13	MEDIUM	Entitlement privileges at account provisioning
+619	17	MEDIUM	EPP endpoint protection detection prevention tool
+620	2	MEDIUM	Fake news social engineering influence campaign
+621	2	MEDIUM	False information social engineering influence
+622	11	HIGH	FCoE converged protocol multilayer Ch11
+623	7	HIGH	FIPS-186-5 DSS digital signature standard
+624	4	HIGH	FISMA is a compliance law
+625	9	HIGH	Flash memory is hardware memory architecture
+626	9	HIGH	Fog computing is named Ch9 architecture section
+627	15	HIGH	Fuzz testing is software testing technique
+628	2	HIGH	Gamification in security awareness training program
+629	2	HIGH	Risk management process Ch2 concepts
+630	9	MEDIUM	Geotagging mobile device location data
+631	9	MEDIUM	Grid computing distributed/HPC architecture
+632	4	HIGH	HITECH amends HIPAA privacy law
+633	9	HIGH	IaaS cloud architecture model Ch9
+634	9	HIGH	IaC is named Ch9 architecture section
+635	13	HIGH	IDaaS is identity management SSO Ch13
+636	9	HIGH	IIoT industrial IoT architecture Ch9
+637	10	HIGH	Site selection is physical facility design
+638	4	MEDIUM	Industrial espionage relates to trade secrets crime
+639	11	MEDIUM	IBOE encapsulation converged HPC interconnect protocol
+640	15	HIGH	Interface testing is software testing
+641	9	MEDIUM	iOS is mobile device OS
+642	9	HIGH	IoT is named Ch9 architecture section
+643	11	MEDIUM	iSCSI IP networking storage protocol
+644	6	MEDIUM	Key clustering cryptographic concept symmetric keys
+645	16	MEDIUM	Privilege creep operational least privilege
+646	16	MEDIUM	Excessive privileges violation of least privilege
+647	13	MEDIUM	Nonrepudiation accountability AAA concept
+648	20	HIGH	Instance is OOP concept Ch20
+649	21	HIGH	Drive-by download malware installation attack
+650	20	MEDIUM	Reverse engineering decompiling code development
+651	13	HIGH	JIT provisioning identity management Ch13
+652	2	HIGH	Job rotation is personnel security policy
+653	13	HIGH	Kerberos is SSO identity management Ch13
+654	1	MEDIUM	Layering defense-in-depth security concept
+655	11	HIGH	MAC filtering wireless network access control
+656	21	HIGH	Malicious code definition is malware Ch21
+657	9	HIGH	MDM is mobile device management Ch9
+658	17	MEDIUM	MDR managed detection and response incident
+659	15	HIGH	Metasploit is penetration testing tool
+660	2	HIGH	Micro training security awareness training program
+661	11	HIGH	Microsegmentation is named Ch11 section
+662	2	MEDIUM	Misinformation social engineering influence campaign
+663	15	HIGH	Misuse case testing is software testing
+664	9	HIGH	Modbus is ICS/SCADA industrial protocol
+665	20	HIGH	Data mart is database/data warehousing Ch20
+666	12	HIGH	MPLS is WAN switching technology Ch12
+667	11	MEDIUM	NAC network access control component
+668	12	HIGH	NAT66 is NAT network address translation Ch12
+669	12	HIGH	NAT is named Ch12 section
+670	16	MEDIUM	Need-to-know; consolidated with least-privilege ops
+671	15	HIGH	Nessus is vulnerability scanner Ch15
+672	11	HIGH	NFC is wireless communication standard
+673	15	HIGH	nmap is network discovery scanning tool
+674	1	HIGH	Nonrepudiation is CIA-related security concept Ch1
+675	13	HIGH	OAuth is SSO federation standard Ch13
+676	13	HIGH	Offboarding is identity provisioning lifecycle
+677	13	HIGH	Onboarding is identity provisioning lifecycle
+678	13	HIGH	OIDC is authentication federation standard Ch13
+679	12	HIGH	Opportunistic TLS is email security SMTP
+680	9	HIGH	PaaS cloud architecture model Ch9
+681	5	HIGH	PHI is protected information classification Ch5
+682	12	HIGH	Phreaking is voice communications attack
+683	5	HIGH	PII is personally identifiable information Ch5
+684	12	HIGH	Port isolation private VLANs Ch12
+685	11	MEDIUM	Port security 802.1X network component
+686	4	MEDIUM	Privacy by design privacy law principle
+687	5	MEDIUM	Privacy relates to information protection PII
+688	21	HIGH	Privilege escalation is application attack Ch21
+689	8	HIGH	Process isolation is CIA technique Ch8
+690	2	MEDIUM	Propaganda social engineering influence campaign
+691	5	MEDIUM	Proprietary data classification trade secrets
+692	7	HIGH	PKI is named Ch7 section
+693	1	HIGH	Reduction analysis is threat modeling decomposition
+694	9	MEDIUM	Remote wipe is mobile device management
+695	15	HIGH	Penetration test management consent prerequisite Ch15
+696	2	HIGH	Residual risk is risk management concept Ch2
+697	11	MEDIUM	RFID radio tracking wireless technology
+698	2	HIGH	Risk avoidance is risk response Ch2
+699	2	HIGH	Risk deterrence is risk management concept Ch2
+700	2	HIGH	Risk reporting is risk management concept Ch2
+701	9	HIGH	RTOS is named Ch9 architecture section
+702	9	HIGH	SaaS cloud architecture model Ch9
+703	11	MEDIUM	SAE Dragonfly WPA3 wireless authentication
+704	21	MEDIUM	Sandboxing antimalware application isolation
+705	9	HIGH	SCADA is named Ch9 ICS section
+706	20	HIGH	SAFe is agile development framework Ch20
+707	20	HIGH	Scrum is agile development methodology Ch20
+708	9	MEDIUM	SDDC virtual data center architecture
+709	12	HIGH	SDN is named Ch12 section
+710	11	MEDIUM	SDV network monitoring visibility framework
+711	9	MEDIUM	SDx software-defined virtualization architecture
+712	11	MEDIUM	SASE converges network security with WAN
+713	9	MEDIUM	SECaaS cloud security service architecture
+714	1	HIGH	Security governance is named Ch1 section
+715	1	HIGH	Security management planning is Ch1 governance
+716	15	HIGH	Security process data is named Ch15 topic
+717	16	MEDIUM	Segregation of duties operational SoD
+718	5	HIGH	Sensitive data is data classification Ch5
+719	9	HIGH	Serverless architecture is Ch9 architecture
+720	9	MEDIUM	Services integration cloud architecture iPaaS
+721	13	HIGH	Session management is identity/auth lifecycle
+722	8	HIGH	Shared responsibility as secure design principle
+723	9	HIGH	Hardware root of trust, security architecture
+724	2	HIGH	SLE risk management calculation
+725	13	HIGH	SSO identity management
+726	9	MEDIUM	SOA/microservices architecture
+727	17	HIGH	SOAR automating incident response
+728	4	HIGH	POPIA data protection privacy law
+729	12	HIGH	SPF email security spam/spoofing
+730	11	MEDIUM	Split-DNS, DNS network architecture
+731	11	HIGH	Spread spectrum wireless FHSS/DSSS/OFDM
+732	12	HIGH	SRTP secure voice VoIP communications
+733	11	MEDIUM	SLAAC IPv6 addressing
+734	15	HIGH	Static software testing, code testing
+735	15	HIGH	Static testing, code testing
+736	6	MEDIUM	Steganography embedding message, cryptographic foundations
+737	9	HIGH	Mobile device storage segmentation
+738	1	HIGH	STRIDE threat modeling
+739	17	MEDIUM	STIX threat intelligence sharing
+740	1	HIGH	Supply chain risk management named section
+741	18	HIGH	System resilience, high availability fault tolerance
+742	11	MEDIUM	Technology convergence multilayer protocols
+743	10	HIGH	TEMPEST emanations physical security
+744	15	HIGH	Test coverage analysis software testing
+745	11	HIGH	APIPA range IP addressing
+746	16	MEDIUM	Least privilege/need-to-know operations concept
+747	17	HIGH	Antivirus protection against botnet, malware prevention
+748	4	HIGH	CLOUD Act, law on data access
+749	9	HIGH	Cloud shared responsibility model architecture
+750	20	HIGH	Class, OOP concept software development
+751	8	HIGH	Security kernel, TCB reference monitor
+752	5	HIGH	Commercial classification scheme
+753	20	HIGH	Message, OOP concept software development
+754	1	HIGH	Abstraction security concept
+755	8	MEDIUM	Fail securely, secure design failure handling
+756	2	HIGH	Controls gap, risk management
+757	2	MEDIUM	Education cornerstone, awareness training
+758	2	HIGH	Cost/benefit safeguard, risk management
+759	5	HIGH	Data custodian role
+760	19	HIGH	Definition of computer crime
+761	2	HIGH	Delphi technique, qualitative risk assessment
+762	6	HIGH	Code vs cipher, cryptographic foundations
+763	12	HIGH	Active-active/passive load balancing
+764	11	MEDIUM	Analog vs digital signals networking
+765	11	MEDIUM	Baseband vs broadband communications
+766	5	HIGH	EOL vs EOS asset handling
+767	12	HIGH	Packet vs circuit switching technologies
+768	11	MEDIUM	Synchronous vs asynchronous communications
+769	7	HIGH	Diffie-Hellman key exchange asymmetric
+770	11	HIGH	Evil twin attack wireless access point
+771	18	HIGH	People safe first when disaster strikes
+772	18	HIGH	Parallel run DR testing
+773	2	HIGH	ALE formula risk management
+774	2	HIGH	SLE formula risk management
+775	13	HIGH	Authorization function AAA
+776	5	MEDIUM	Auditor security role
+777	5	HIGH	Data owner role classifying information
+778	10	HIGH	Functional order of physical security controls
+779	4	HIGH	GDPR privacy law
+780	3	HIGH	Goal of business continuity planning
+781	5	HIGH	Government/military classification scheme
+782	9	MEDIUM	RAM theft, hardware security architecture
+783	13	HIGH	Identity and access provisioning life cycle
+784	11	HIGH	802.16 WiMax wireless standard
+785	8	HIGH	Security perimeter, TCB boundary
+786	20	MEDIUM	Acquired software COTS/OSS attack surface
+787	4	HIGH	Compliance program importance
+788	1	MEDIUM	Accountability importance, AAA security concept
+789	3	HIGH	Documenting business continuity plan
+790	5	HIGH	Importance of data asset classifications
+791	19	HIGH	Importance of ethics, ISC2 code
+792	10	HIGH	Fire detection and suppression physical
+793	2	HIGH	Job descriptions personnel security
+794	6	MEDIUM	Key security, cryptographic key length
+795	18	MEDIUM	Prepping equipment failure, resilience SLA
+796	17	MEDIUM	Retaining investigatory data, logging incidents
+797	15	HIGH	Security assessment and testing programs
+798	20	HIGH	Method, OOP concept software development
+799	11	HIGH	IP header protocol field values
+800	17	MEDIUM	Incidents not recognized, incident management
+801	6	HIGH	DES key length 56 bits symmetric
+802	19	HIGH	Locard's exchange principle forensics
+803	11	HIGH	SSID minimum to connect wireless
+804	11	HIGH	TCP header length networking
+805	15	MEDIUM	SSAE 16/18 audit report timeframe
+806	10	HIGH	Water suppression failure human error physical
+807	10	HIGH	Common cause fires data center physical
+808	18	MEDIUM	Hardware failures unplanned downtime
+809	3	MEDIUM	Checklists emergency response plans
+810	15	HIGH	sqlmap database vulnerability scanner
+811	10	MEDIUM	Protecting people most important security goal
+812	11	LOW	Most significant bit, leftmost generic
+813	13	HIGH	Retina scans biometric acceptance
+814	5	HIGH	Degaussing data destruction
+815	8	HIGH	DITSCAP accreditation process
+816	6	HIGH	Kerckhoffs' principle cryptographic foundations
+817	4	HIGH	PIPL China data privacy law
+818	1	HIGH	Top-down approach security management governance
+819	2	HIGH	NDA personnel security
+820	1	MEDIUM	System security policy governance
+821	2	HIGH	Periodic content review security awareness training
+822	14	HIGH	Pass-the-hash access control attack
+823	10	MEDIUM	Concentric circle strategy defense in depth physical
+824	13	HIGH	Memory cards vs smartcards authentication
+825	12	HIGH	Fax security communications
+826	10	HIGH	Lighting physical security device
+827	11	HIGH	Bluetooth pairing PIN wireless
+828	11	HIGH	Satellite communications weakness network
+829	16	MEDIUM	Least privilege principle, access operations
+830	8	HIGH	Keep it simple secure design principle
+831	7	HIGH	Enrollment digital certificate PKI
+832	13	HIGH	Authentication process AAA
+833	3	HIGH	BCP continuity strategy development
+834	19	HIGH	Sabotage, category of computer crime
+835	19	HIGH	Espionage, category of computer crime
+836	1	HIGH	Confidentiality CIA triad
+837	1	HIGH	Availability CIA triad
+838	7	HIGH	Cryptographic pepper, password hashing
+839	7	HIGH	Cryptographic salt, rainbow table protection
+840	13	HIGH	AAA protocols RADIUS/TACACS+
+841	15	HIGH	Account access reviews are assessment process data
+842	1	HIGH	Security function alignment to business strategy governance
+843	15	MEDIUM	Access review and audit assessment process
+844	20	MEDIUM	Assurance procedures across system life cycle
+845	15	MEDIUM	Auditing for compliance and detecting abnormalities
+846	15	MEDIUM	Compliance testing of security solution elements
+847	9	HIGH	Firmware BIOS/UEFI hardware architecture
+848	8	HIGH	Hardware segmentation isolation design technique
+849	8	HIGH	Memory protection CIA design technique
+850	17	MEDIUM	Monitoring tools IDS/SIEM logging and monitoring
+851	14	MEDIUM	Security controls access rules subject to object
+852	1	MEDIUM	Security monitoring and measurement governance
+853	20	HIGH	Software development maturity models CMM/SAMM
+854	2	HIGH	Vendor consultant contractor controls SLA
+855	15	HIGH	Vulnerability assessments and penetration tests
+856	6	HIGH	Key space cryptographic foundations
+857	2	HIGH	Risk Maturity Model risk management
+858	7	MEDIUM	Confidentiality integrity nonrepudiation in cryptosystems
+859	11	HIGH	802.11 wireless networking standard
+860	13	HIGH	Biometric reference template authentication
+861	11	HIGH	TCP/IP model network architecture
+862	1	HIGH	Due care reasonable care governance
+863	5	HIGH	Data remanence asset handling
+864	21	MEDIUM	Trap door back door application attack
+865	21	HIGH	Ransomware malware
+866	13	HIGH	New employee identity proofing registration
+867	11	HIGH	KRACK Wi-Fi attack wireless
+868	15	HIGH	zzuf mutation fuzzing software testing
+869	1	MEDIUM	Third-party governance oversight
+870	17	HIGH	Threat hunting incident detection
+871	1	HIGH	Threat modeling named Ch1 section
+872	5	HIGH	Tokenization data protection method
+873	2	HIGH	Total risk formula risk management
+874	9	HIGH	TPM cryptoprocessor hardware architecture
+875	8	MEDIUM	Transitive trust security concept
+876	8	MEDIUM	Transparency characteristic of control
+877	1	HIGH	Trike threat modeling methodology
+878	17	MEDIUM	TAXII threat intelligence sharing
+879	12	HIGH	Tunneling encapsulation VPN concept
+880	16	MEDIUM	Two-person control operations practice
+881	11	MEDIUM	Typosquatting domain name redirect
+882	9	HIGH	UEFI firmware hardware architecture
+883	21	MEDIUM	URL hijacking web redirect attack
+884	18	HIGH	RAID fault tolerance disk
+885	18	HIGH	Failover cluster fault tolerance server
+886	18	HIGH	Generator long-term power fault tolerance
+887	18	HIGH	UPS short-term power fault tolerance
+888	1	HIGH	VAST threat modeling methodology
+889	9	HIGH	VDI virtual desktop infrastructure architecture
+890	16	HIGH	Versioning configuration management
+891	9	MEDIUM	Virtual networking virtualized systems
+892	9	HIGH	Virtual software virtualization architecture
+893	9	HIGH	Virtualization hypervisor architecture
+894	12	HIGH	VLAN hopping switching attack
+895	9	HIGH	VM escaping hypervisor isolation
+896	9	HIGH	VMI virtual mobile infrastructure architecture
+897	12	HIGH	VoIP secure voice communications
+898	11	MEDIUM	VRF routing isolation network component
+899	11	HIGH	War chalking wireless network discovery
+900	12	MEDIUM	War dialing modem connection search
+901	11	HIGH	War driving wireless network discovery
+902	5	MEDIUM	Watermarking embedded marking documents
+903	10	HIGH	White noise EMI emanations
+904	11	HIGH	WPS Wi-Fi Protected Setup wireless
+905	9	HIGH	XaaS cloud service catchall architecture
+906	17	HIGH	XDR extended detection and response
+907	14	HIGH	Zero trust access policy enforcement
+908	7	HIGH	X.509 digital certificate PKI
+909	14	HIGH	DAC access control model
+910	14	HIGH	MAC access control model
+911	15	MEDIUM	Compliance checking security solution elements
+912	2	MEDIUM	Preventive control category
+913	2	MEDIUM	Directive control category
+914	2	MEDIUM	Detection control category
+915	18	MEDIUM	Recovery strategy restore business operation
+916	17	HIGH	IDS intrusion detection system
+917	14	MEDIUM	Access controls hardware/software/policy definition
+918	5	HIGH	Declassification media reuse handling
+919	18	HIGH	Cold site recovery site
+920	18	HIGH	Warm site recovery site
+921	18	HIGH	Hot site recovery site
+922	4	HIGH	Government Information Security Reform Act law
+923	4	HIGH	Economic Espionage Act proprietary information law
+924	4	HIGH	FERPA student privacy law
+925	4	HIGH	CALEA wiretap law
+926	4	HIGH	COPPA children's online privacy law
+927	4	HIGH	Copyright patent trade secret proprietary protection
+928	11	MEDIUM	ISDN D channel call management bandwidth
+929	5	HIGH	Purging sanitization destruction data removal
+930	9	HIGH	Mobile device protection methods
+931	11	HIGH	Ad hoc peer-to-peer wireless mode
+932	19	HIGH	Evidence integrity for trial investigations
+933	6	HIGH	Confusion cryptographic concept
+934	11	MEDIUM	Application layer gateway network device
+935	6	HIGH	Diffusion cryptographic concept
+936	3	MEDIUM	FEMA flood information continuity planning
+937	2	HIGH	Mandatory vacations personnel policy
+938	11	HIGH	DHCP ports IP networking
+939	11	HIGH	IMAP port network protocol
+940	11	HIGH	DNS ports IP networking
+941	18	HIGH	Disaster recovery planning DRP
+942	8	HIGH	Certification and accreditation security models
+943	1	HIGH	Threat modeling identifies categorizes threats
+944	2	HIGH	Asset valuation risk management
+945	15	MEDIUM	Vulnerability analysis identifies weaknesses
+946	11	HIGH	ICMP protocol ping traceroute
+947	7	HIGH	S/MIME RSA email crypto application
+948	3	HIGH	BCP testing personnel time resource
+949	2	HIGH	Humans weakest element security awareness
+950	18	HIGH	Service bureau disaster recovery
+951	15	HIGH	CVSS SCAP vulnerability scoring
+952	16	MEDIUM	Collusion countermeasures operations
+953	20	HIGH	Polyinstantiation database security
+954	20	MEDIUM	Bad coding software security problem
+955	2	HIGH	Asset value establishment risk management
+956	5	HIGH	Sanitization before disposal end-of-life
+957	16	HIGH	Verify patches patch management
+958	9	HIGH	Legacy system EOL/EOS architecture risk
+959	1	HIGH	Formalized security structure documents policies
+960	8	HIGH	TCSEC Category D security evaluation
+961	9	MEDIUM	Multithreading as system architecture concept
+962	7	HIGH	One-way function underlies hash functions
+963	17	HIGH	Incident definition, incident management
+964	18	MEDIUM	Natural disaster, nature of disaster
+965	18	MEDIUM	Human-made disaster, nature of disaster
+966	2	HIGH	Shoulder surfing is social engineering
+967	13	MEDIUM	Masquerading using another's security ID
+968	8	HIGH	Certification is technical evaluation against standards
+969	19	MEDIUM	Sampling as evidence/data extraction technique
+970	9	MEDIUM	Applet, client-based mobile code
+971	2	HIGH	Dumpster diving is social engineering
+972	9	MEDIUM	Intelligent agent code object
+973	13	HIGH	Subject makes access request, AAA
+974	19	HIGH	Evidence proves identity and actions
+975	9	HIGH	Hypervisor types, virtualized systems
+976	21	HIGH	Malware prevention elements
+977	15	HIGH	Vulnerability scanner checks weaknesses
+978	16	MEDIUM	Third-party/cloud contracting procurement reviews
+979	11	HIGH	802.11 wireless authentication types
+980	11	MEDIUM	ICMP ping types, IP networking
+981	11	HIGH	Infrastructure mode wireless networking components
+982	8	MEDIUM	Site accreditation evaluation
+983	20	HIGH	Decision support knowledge-based system
+984	1	HIGH	Defense in depth security approach
+985	7	HIGH	Bcrypt salting thwarts rainbow tables
+986	12	HIGH	SYN flood network attack
+987	11	HIGH	Plenum-rated cable, network components
+988	6	HIGH	Caesar cipher is substitution
+989	7	HIGH	Replay attack, cryptographic attacks
+990	7	HIGH	Asymmetric uses public/private keys
+991	10	HIGH	Static electricity damage, physical/HVAC
+992	20	HIGH	Foreign key, databases
+993	2	HIGH	Quantitative risk decision making
+994	18	HIGH	Workgroup recovery, recovery strategy
+995	19	HIGH	Documentary evidence type
+996	17	HIGH	Behavior-based IDS detection
+997	17	HIGH	Knowledge-based signature IDS
+998	10	HIGH	Electronic access control lock, physical
+999	21	HIGH	Logic bomb malicious code
+1000	21	HIGH	Virus spreads via infected media
+1001	18	HIGH	Mobile recovery site
+1002	20	HIGH	Database relationship types
+1003	15	HIGH	Dynamic testing without source code
+1004	12	MEDIUM	Open relay SMTP email spam
+1005	9	HIGH	Persistent VDI, virtualized systems
+1006	21	HIGH	Macro virus
+1007	21	HIGH	Polymorphic virus
+1008	15	HIGH	Synthetic monitoring website testing
+1009	15	HIGH	Passive monitoring testing technique
+1010	15	HIGH	User entitlement review of privileged accounts
+1011	17	MEDIUM	Auditing/logging/monitoring activities
+1012	15	HIGH	Penetration test activities
+1013	4	HIGH	PCI DSS compliance
+1014	12	MEDIUM	QoS protects network data integrity
+1015	11	HIGH	Bluetooth IEEE standard, wireless
+1016	15	HIGH	Vulnerability assessment of organization
+1017	14	HIGH	Implicit deny default access control
+1018	3	HIGH	BCP when work only threatened
+1019	11	HIGH	DNS domain registration, zone files
+1020	15	HIGH	Black-box penetration testing team
+1021	15	HIGH	Partial-knowledge penetration testing team
+1022	2	HIGH	Social engineering deceiving insiders
+1023	5	HIGH	Declassification of asset label
+1024	17	HIGH	Contain intrusion first response
+1025	15	HIGH	Red/blue/white exercise teams
+1026	14	HIGH	Access control attack elements
+1027	6	HIGH	XOR function, cryptographic foundations
+1028	10	HIGH	Piggybacking through secured gate, physical
+1029	5	HIGH	Destroy sensitive data no longer needed
+1030	16	MEDIUM	Least privilege principle
+1031	9	HIGH	DCS industrial control systems
+1032	9	MEDIUM	Unix password storage, system architecture
+1033	9	HIGH	BIOS/UEFI firmware boot
+1034	14	HIGH	ABAC access control model in SDN
+1035	10	HIGH	Fire detector placement, physical
+1036	17	HIGH	Incident investigation in log files
+1037	14	HIGH	Rule-based access control scheme
+1038	14	HIGH	Role-based access control scheme
+1039	21	HIGH	Antivirus cleaning response
+1040	7	HIGH	IPSec AH authentication header
+1041	8	HIGH	Bell-LaPadula security model
+1042	8	MEDIUM	Covert timing channel, security models
+1043	17	HIGH	Filtering rules stop scanning/DoS incidents
+1044	19	HIGH	Terrorist attack computer crime category
+1045	14	HIGH	Mandatory access controls static attributes
+1046	17	MEDIUM	Scanning incident, no direct damage
+1047	12	HIGH	IPSec VPN multiple connections
+1048	17	HIGH	Evidence protection during incident
+1049	3	HIGH	BCP team members
+1050	12	MEDIUM	Sender secures communications
+1051	7	HIGH	CAs issue digital certificates
+1052	15	MEDIUM	Audit report access need-to-know
+1053	17	HIGH	Basic preventive measures for incidents
+1054	21	HIGH	Antivirus protection importance, malware
+1055	1	MEDIUM	Continuous improvement of security
+1056	20	HIGH	Software testing validates code
+1057	16	MEDIUM	Protect against privilege abuse
+1058	16	MEDIUM	Protect against resource waste
+1059	17	MEDIUM	Monitoring for policy violations
+1060	10	HIGH	No security without physical security
+1061	2	MEDIUM	No countermeasure against all cracker threats
+1062	16	HIGH	Monitor privileged operations
+1063	2	HIGH	Security awareness, training, education program
+1064	5	MEDIUM	Backup media data classification handling
+1065	13	HIGH	Kerberos combined with other SSO

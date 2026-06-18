@@ -1,0 +1,26 @@
+How many rounds of encryption does DES utilize?	16
+True or false? All ciphers are meant to obscure the meaning of a message.	True
+True or false? All codes are meant to obscure the meaning of a message.	False
+True or false? Modern cryptosystems rely on the secrecy of the encryption algorithm.	False
+True or false? The IDEA algorithm is available free for noncommercial use.	True
+What are the basic operational modes of symmetric cryptosystems?	Symmetric cryptosystems operate in several discrete modes: Electronic Codebook (ECB) mode, Cipher Block Chaining (CBC) mode, Cipher Feedback (CFB) mode, Output Feedback (OFB) mode, Counter (CTR) mode, Galois/Counter mode (GCM), and Counter with Cipher Block Chaining Message Authentication Code mode (CCM). ECB mode is considered the least secure and is used only for short messages.
+What are the characteristics of the Advanced Encryption Standard (AES)?	The Advanced Encryption Standard (AES) uses the Rijndael algorithm and is the U.S. government standard for the secure exchange of sensitive but unclassified data. AES uses key lengths of 128, 192, and 256 bits and a fixed block size of 128 bits to achieve a much higher level of security than that provided by the older DES algorithm.
+What are the differences between symmetric and asymmetric cryptosystems?	Symmetric key cryptosystems (or secret key cryptosystems) rely on the use of a shared secret key. They are much faster than asymmetric algorithms, but they lack support for scalability, easy key distribution, and nonrepudiation. Asymmetric cryptosystems use public‐private key pairs for communication between parties but operate much more slowly than symmetric algorithms.
+What are the requirements for successful use of a one‐time pad?	For a one‐time pad to be successful, the key must be generated randomly without any known pattern. The key must be at least as long as the message to be encrypted. The pads must be protected against physical disclosure, and each pad must be used only one time and then discarded.
+What are the valid key sizes for RC5?	0 to 2,048 bits
+What defines the hardware and software requirements of cryptographic modules in use by the federal government?	Federal Information Processing Standards (FIPS‐140‐2)/140‐3
+What encryption algorithm was selected for the Advanced Encryption Standard (AES)?	Rijndael
+What form of encryption is used to protect communications that occur in real time?	Stream ciphers
+What is a random bit string (a nonce) that is the same length as the block size that is XORed with the message and adds strength to cryptography systems?	Initialization vector (IV)
+What is an example of a polyalphabetic substitution cipher?	Vigenère cipher
+What is it called when a plain‐text message generates identical ciphertext messages using the same algorithm but different keys?	Clustering or key clustering
+What is steganography?	Steganography is the practice of embedding a message within a file.
+What is the difference between a code and a cipher, and what are the basic types of ciphers?	Codes are cryptographic systems of symbols that operate on words or phrases and are sometimes secret but don't always provide confidentiality. Ciphers, however, are always meant to hide the true meaning of a message. The basic types of ciphers are transposition ciphers, substitution ciphers (including one‐time pads), stream ciphers, and block ciphers.
+What is the importance of key security?	Cryptographic keys provide the necessary element of secrecy to a cryptosystem. Modern symmetric cryptosystems utilize keys that are at least 128 bits long to provide adequate security. Modern asymmetric cryptosystems utilize keys that are at least 2,048 bits long to provide adequate security.
+What is the length of the key used by the standard DES algorithm?	56 bits
+What is the name of the assumption that all algorithms should be public but all keys should remain private?	Kerckhoffs' principle
+What is the range of valid values of keys for an algorithm called?	Key space
+What name is given to the cryptographic concept of making the relationship between the plain text and the key so complex that an attacker can't use known plain‐text attacks to determine the key?	Confusion
+What occurs when a change in the plain text results in multiple changes spread throughout the cipher text?	Diffusion
+What type of cipher is the Caesar cipher?	Simple substitution
+When is the XOR function true?	When only one of the input bits is true

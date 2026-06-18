@@ -1,0 +1,51 @@
+Define confinement, bounds, and isolation.	Confinement restricts a process to reading from and writing to specific resources (such as memory). Bounds is the limitation of authorization assigned to a process to limit the resources the process can interact with and the types of interactions allowed. Isolation is the means by which confinement is implemented through the use of bounds.
+Define the Bell–LaPadula model.	Bell–LaPadula subjects have a clearance level that allows them to access only those objects with the corresponding classification levels, which protects confidentiality.
+Define the Biba model.	Biba prevents subjects with lower security levels from writing to objects at higher security levels.
+Define the Clark–Wilson model.	Clark–Wilson is an integrity model that relies on the access control triplet (i.e., subject/program/object).
+Define the Common Criteria.	The Common Criteria (ISO/IEC 15408) is a subjective security function evaluation tool that uses protection profiles (PPs) and security targets (STs) and assigns an evaluation assurance level (EAL).
+Define the concept of access control matrix.	An access control matrix is a table of subjects and objects that indicates the actions or functions that each subject can perform on each object.
+Define the Graham–Denning model.	Graham–Denning focuses on the secure creation and deletion of both subjects and objects.
+Define the information flow model.	The information flow model is designed to prevent unauthorized, insecure, or restricted information flow.
+Define the noninterference model.	The noninterference model prevents the actions of one subject from affecting the system state or actions of another subject.
+Define the state machine model.	The state machine model ensures that all instances of subjects accessing objects are secure.
+Define the take‐grant model.	The take‐grant model dictates how rights can be passed from one subject to another or from a subject to an object.
+Define trust and assurance.	A trusted system is one in which all protection mechanisms work together to process sensitive data for many types of users while maintaining a stable and secure computing environment. In other words, trust is the presence of a security mechanism or capability. Assurance is the degree of confidence in satisfaction of security needs. In other words, assurance is how reliable the security mechanisms are at providing security.
+Describe open and closed systems.	Open systems are designed using industry standards and are usually easy to integrate with other open systems. Closed systems are generally proprietary hardware and/or software. Their specifications are not normally published, and they are usually harder to integrate with other systems.
+How is abstraction used?	Abstraction is used to collect similar elements into groups, classes, or roles that are assigned security controls, restrictions, or permissions.
+In the Biba integrity model, what is the Simple Integrity Axiom, which states that a subject cannot read an object of a lower integrity, also called?	No read‐down
+In the Clark–Wilson security model, what is a procedure that scans data items and confirms their integrity?	Integrity verification procedure (IVP)
+In which ring (layer) of the protection ring scheme do user applications reside?	Ring 3
+The Bell–LaPadula, Biba, and Clark–Wilson access control models were all designed to protect a single aspect of security. Name the corresponding aspect for each model.	Bell–LaPadula protects confidentiality; Biba and Clark–Wilson protect integrity.
+What are covert channels?	A covert channel is a method that is used to pass information over a path that is not normally used for communication. Using a covert channel provides a means to violate, bypass, or circumvent a security policy undetected. Basic types are timing and storage.
+What are protection rings?	From a security standpoint, protection rings organize code and components in an OS into concentric rings. The deeper inside the circle you go, the higher the privilege level associated with the code that occupies a specific ring.
+What are some of the terms used to describe the CPU mode that gives access to the full range of supported instructions?	System mode, privileged mode, supervisory mode, and kernel mode
+What are the common process states?	Ready, running, waiting, supervisory, and stopped
+What are the concepts of memory addressing?	Means of memory addressing include register addressing, immediate addressing, direct addressing, indirect addressing, and base+offset addressing.
+What are the security features of a designed system called under Common Criteria?	Security target
+What are the security requests of a client called under Common Criteria?	Protection profile
+What are the three forms of accreditation offered by National Information Assurance Certification and Accreditation Process (NIACAP)?	Site, type, system
+What are the typical security capabilities of information systems?	Memory protection, virtualization, Trusted Platform Module (TPM), encryption/decryption, interfaces, and fault tolerance
+What does ITSEC call the system that is being evaluated?	The target of evaluation (TOE)
+What does the Goguen–Meseguer model focus on?	Goguen–Meseguer model focuses on integrity.
+What does the Sutherland model focus on?	Integrity
+What is a hardware‐based RoT?	A hardware‐based RoT refers to the implementation of the root of trust using dedicated hardware components. This often involves the integration of secure hardware modules, such as trusted platform modules (TPMs) or hardware security modules (HSMs), which are designed to provide a secure and isolated environment for cryptographic operations and key management.
+What is a separate object that is associated with a resource and describes its security attributes?	Security token
+What is a trust anchor?	A specific entity or component within a system that is inherently trusted. It serves as a reference point for establishing trust in other entities or components within the system. The trust anchor is typically a well‐protected and tamper‐resistant element, and trust in the overall system is derived from the trustworthiness of the trust anchor.
+What is a trusted computing base (TCB)?	The combination of hardware, software, and controls that form a trusted base enforcing the security policy
+What is process isolation?	Process isolation requires that the OS provide separate memory spaces for each process's instructions and data. It also requires that the OS enforce those boundaries, preventing one process from reading or writing data that belongs to another process.
+What is shared responsibility?	The security design principle that indicates that organizations do not operate in isolation. It is because we participate in shared responsibility that we must research, implement, and manage engineering processes using secure design principles.
+What is the collection of trusted computing base (TCB) components that work together to implement the reference monitor functions?	Security kernel
+What is the concept of fail securely?	Failure management includes programmatic error handling (aka exception handling) and input sanitization; secure failure is integrated into the system (fail‐safe vs. fail‐secure).
+What is the imaginary boundary that separates the TCB from the rest of the system?	Security perimeter
+What is the name of the accreditation process of the Department of Defense?	Defense Information Technology Security Certification and Accreditation Process (DITSCAP)
+What is the principle of “keep it simple”?	“Keep it simple” is the encouragement to avoid overcomplicating the environment, organization, or product design. The more complex a system, the more difficult it is to secure.
+What is the purpose of hardware segmentation?	Hardware segmentation is similar to process isolation in purpose—it prevents the access of information that belongs to a different process/security level. The main difference is that hardware segmentation enforces these requirements through the use of physical hardware controls rather than the logical process isolation controls imposed by an OS.
+What is the purpose of memory protection?	Memory protection is used to prevent an active process from interacting with an area of memory that was not specifically assigned or allocated to it. Memory protection is a core security component that must be designed and implemented into an operating system. It must be enforced regardless of the programs executing in the system. Otherwise instability, violation of integrity, denial of service, and disclosure are likely results.
+What is transitive trust?	Transitive trust is the concept that if A trusts B and B trusts C, then A inherits trust of C through the transitive property, which works like it would in a mathematical equation: if A = B, and B = C, then A = C. In this example, when A requests data from B, then B requests data from C, the data that A receives is essentially from C. Transitive trust is a serious security concern because it may enable bypassing of restrictions or limitations between A and C.
+What is transparency?	A characteristic of a service, security control, or access mechanism that ensures it is unseen by users
+What process evaluates the technical and nontechnical security features of an IT system?	Certification and accreditation
+What TCSEC category is reserved for systems that have been evaluated but do not meet the requirements of any other category?	Category D (minimal protection)
+What term describes the technical evaluation of each part of a computer system to assess its concordance with security standards?	Certification
+What type of accreditation evaluates the systems and applications at a specific, self‐contained location?	Site accreditation
+Which organization developed the Bell–LaPadula security model?	The U.S. Department of Defense
+Which security vulnerability conveys information by altering the performance of a system component or modifying a resource's timing in a predictable manner?	Covert timing channel
