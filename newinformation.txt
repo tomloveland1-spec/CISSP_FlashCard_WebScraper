@@ -1,0 +1,502 @@
+Table of Contents
+Introduction xxxv
+
+Assessment Test lx
+
+Chapter 1 Security Governance Through Principles and Policies 1
+
+Security 101 3
+
+Understand and Apply Security Concepts 4
+
+Security Boundaries 13
+
+Evaluate and Apply Security Governance Principles 14
+
+Manage the Security Function 16
+
+Security Policy, Standards, Procedures, and Guidelines 27
+
+Threat Modeling 29
+
+Supply Chain Risk Management 35
+
+Summary 38
+
+Study Essentials 39
+
+Written Lab 41
+
+Review Questions 42
+
+Chapter 2 Personnel Security and Risk Management Concepts 49
+
+Personnel Security Policies and Procedures 51
+
+Understand and Apply Risk Management Concepts 60
+
+Social Engineering 90
+
+Establish and Maintain a Security Awareness, Education, and Training Program 106
+
+Summary 110
+
+Study Essentials 111
+
+Written Lab 114
+
+Review Questions 115
+
+Chapter 3 Business Continuity Planning 121
+
+Planning for Business Continuity 122
+
+Project Scope and Planning 123
+
+Business Impact Analysis 131
+
+Continuity Planning 137
+
+Plan Approval and Implementation 140
+
+Summary 145
+
+Study Essentials 145
+
+Written Lab 146
+
+Review Questions 147
+
+Chapter 4 Laws, Regulations, and Compliance 151
+
+Categories of Laws 152
+
+Laws 155
+
+State Privacy Laws 179
+
+Compliance 179
+
+Contracting and Procurement 181
+
+Summary 182
+
+Study Essentials 182
+
+Written Lab 184
+
+Review Questions 185
+
+Chapter 5 Protecting Security of Assets 189
+
+Identifying and Classifying Information and Assets 190
+
+Establishing Information and Asset Handling Requirements 198
+
+Data Protection Methods 208
+
+Understanding Data Roles 214
+
+Using Security Baselines 216
+
+Summary 219
+
+Study Essentials 220
+
+Written Lab 221
+
+Review Questions 222
+
+Chapter 6 Cryptography and Symmetric Key Algorithms 227
+
+Cryptographic Foundations 228
+
+Modern Cryptography 246
+
+Symmetric Cryptography 253
+
+Cryptographic Life Cycle 263
+
+Summary 264
+
+Study Essentials 264
+
+Written Lab 266
+
+Review Questions 267
+
+Chapter 7 PKI and Cryptographic Applications 271
+
+Asymmetric Cryptography 272
+
+Hash Functions 279
+
+Digital Signatures 283
+
+Public Key Infrastructure 286
+
+Asymmetric Key Management 292
+
+Hybrid Cryptography 293
+
+Applied Cryptography 294
+
+Cryptographic Attacks 306
+
+Summary 309
+
+Study Essentials 310
+
+Written Lab 311
+
+Review Questions 312
+
+Chapter 8 Principles of Security Models, Design, and Capabilities 317
+
+Secure Design Principles 319
+
+Techniques for Ensuring CIA 330
+
+Understand the Fundamental Concepts of Security Models 332
+
+Select Controls Based on Systems Security Requirements 345
+
+Understand Security Capabilities of Information Systems 349
+
+Summary 352
+
+Study Essentials 353
+
+Written Lab 354
+
+Review Questions 355
+
+Chapter 9 Security Vulnerabilities, Threats, and Countermeasures 359
+
+Shared Responsibility 360
+
+Data Localization and Data Sovereignty 362
+
+Assess and Mitigate the Vulnerabilities of Security Architectures, Designs, and Solution Elements 363
+
+Client‐Based Systems 378
+
+Server‐Based Systems 381
+
+Industrial Control Systems 384
+
+Distributed Systems 386
+
+High‐Performance Computing (HPC) Systems 387
+
+Real‐Time Operating Systems 388
+
+Internet of Things 389
+
+Edge and Fog Computing 390
+
+Embedded Devices and Cyber‐Physical Systems 391
+
+Microservices 396
+
+Infrastructure as Code 397
+
+Immutable Architecture 398
+
+Virtualized Systems 399
+
+Containerization 406
+
+Mobile Devices 407
+
+Essential Security Protection Mechanisms 424
+
+Common Security Architecture Flaws and Issues 427
+
+Summary 431
+
+Study Essentials 432
+
+Written Lab 436
+
+Review Questions 437
+
+Chapter 10 Physical Security Requirements 443
+
+Apply Security Principles to Site and Facility Design 444
+
+Implement Site and Facility Security Controls 449
+
+Implement and Manage Physical Security 473
+
+Summary 480
+
+Study Essentials 481
+
+Written Lab 484
+
+Review Questions 485
+
+Chapter 11 Secure Network Architecture and Components 491
+
+OSI Model 493
+
+TCP/IP Model 501
+
+Analyzing Network Traffic 502
+
+Common Application Layer Protocols 503
+
+Transport Layer Protocols 504
+
+Domain Name System 506
+
+Internet Protocol (IP) Networking 512
+
+ARP Concerns 516
+
+Secure Communication Protocols 517
+
+Implications of Multilayer Protocols 518
+
+Segmentation 523
+
+Edge Networks 526
+
+Wireless Networks 527
+
+Satellite Communications 543
+
+Cellular Networks 544
+
+Content Distribution Networks (CDNs) 544
+
+Secure Network Components 545
+
+Summary 572
+
+Study Essentials 573
+
+Written Lab 575
+
+Review Questions 576
+
+Chapter 12 Secure Communications and Network Attacks 581
+
+Protocol Security Mechanisms 582
+
+Secure Voice Communications 587
+
+Remote Access Security Management 591
+
+Multimedia Collaboration 595
+
+Monitoring and Management 597
+
+Load Balancing 597
+
+Manage Email Security 600
+
+Virtual Private Network 606
+
+Switching and Virtual LANs 613
+
+Network Address Translation 617
+
+Third‐Party Connectivity 622
+
+Switching Technologies 624
+
+WAN Technologies 626
+
+Fiber‐Optic Links 629
+
+Prevent or Mitigate Network Attacks 630
+
+Summary 631
+
+Study Essentials 632
+
+Written Lab 635
+
+Review Questions 636
+
+Chapter 13 Managing Identity and Authentication 641
+
+Controlling Access to Assets 643
+
+The AAA Model 645
+
+Implementing Identity Management 662
+
+Managing the Identity and Access Provisioning Life Cycle 668
+
+Summary 672
+
+Study Essentials 672
+
+Written Lab 675
+
+Review Questions 676
+
+Chapter 14 Controlling and Monitoring Access 681
+
+Comparing Access Control Models 682
+
+Implementing Authentication Systems 694
+
+Zero‐Trust Access Policy Enforcement 702
+
+Understanding Access Control Attacks 703
+
+Summary 719
+
+Study Essentials 720
+
+Written Lab 721
+
+Review Questions 722
+
+Chapter 15 Security Assessment and Testing 727
+
+Building a Security Assessment and Testing Program 729
+
+Performing Vulnerability Assessments 735
+
+Testing Your Software 750
+
+Training and Exercises 758
+
+Implementing Security Management Processes and Collecting Security Process Data 759
+
+Summary 762
+
+Exam Essentials 763
+
+Written Lab 764
+
+Review Questions 765
+
+Chapter 16 Managing Security Operations 769
+
+Apply Foundational Security Operations Concepts 771
+
+Address Personnel Safety and Security 778
+
+Provision Information and Assets Securely 780
+
+Managed Services in the Cloud 786
+
+Perform Configuration Management (CM) 790
+
+Manage Change 793
+
+Manage Patches and Reduce Vulnerabilities 797
+
+Summary 801
+
+Study Essentials 802
+
+Written Lab 804
+
+Review Questions 805
+
+Chapter 17 Preventing and Responding to Incidents 809
+
+Conducting Incident Management 811
+
+Implementing Detection and Preventive Measures 818
+
+Logging and Monitoring 842
+
+Automating Incident Response 854
+
+Summary 860
+
+Study Essentials 860
+
+Written Lab 863
+
+Review Questions 864
+
+Chapter 18 Disaster Recovery Planning 869
+
+The Nature of Disaster 871
+
+Understand System Resilience, High Availability, and Fault Tolerance 883
+
+Recovery Strategy 888
+
+Recovery Plan Development 898
+
+Training, Awareness, and Documentation 906
+
+Testing and Maintenance 907
+
+Summary 911
+
+Study Essentials 912
+
+Written Lab 913
+
+Review Questions 914
+
+Chapter 19 Investigations and Ethics 919
+
+Investigations 920
+
+Major Categories of Computer Crime 934
+
+Ethics 940
+
+Summary 944
+
+Study Essentials 945
+
+Written Lab 946
+
+Review Questions 947
+
+Chapter 20 Software Development Security 951
+
+Introducing Systems Development Controls 953
+
+Establishing Databases and Data Warehousing 984
+
+Storage Threats 994
+
+Understanding Knowledge‐ Based Systems 995
+
+Summary 998
+
+Study Essentials 998
+
+Written Lab 1000
+
+Review Questions 1001
+
+Chapter 21 Malicious Code and Application Attacks 1005
+
+Malware 1006
+
+Malware Prevention 1018
+
+Application Attacks 1021
+
+Injection Vulnerabilities 1024
+
+Exploiting Authorization Vulnerabilities 1030
+
+Exploiting Web Application Vulnerabilities 1033
+
+Application Security Controls 1038
+
+Secure Coding Practices 1044
+
+Summary 1048
+
+Study Essentials 1048
+
+Written Lab 1049
+
+Review Questions 1050
